@@ -1,5 +1,4 @@
 # Discord-Token-Stealer
-![Discord Token Stealer](https://www.logolynx.com/images/logolynx/1b/1bcc0f0aefe71b2c8ce66ffe8645d365.png)
 
 If you open the program then it's sending a message through a discord webhook with the following informations:
 - Computer UserName
