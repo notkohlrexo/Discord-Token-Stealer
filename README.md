@@ -1,4 +1,6 @@
 # Discord-Token-Stealer
+![alt text](https://i.imgur.com/YWEBcLX.png)
+
 
 ### If you open the program then it's sending a message through a discord webhook with the following informations:
 #### - Computer UserName
