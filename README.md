@@ -1,12 +1,12 @@
 # Discord-Token-Stealer
 
-## If you open the program then it's sending a message through a discord webhook with the following informations:
+### If you open the program then it's sending a message through a discord webhook with the following informations:
 #### - Computer UserName
 #### - OS
 #### - Token from the discord app
 #### - Token from google chrome
 
-## VS Version used:
+### VS Version used:
 #### - Visual Studio 2019 Community
 
 # Disclaimer
